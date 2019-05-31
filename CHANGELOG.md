@@ -5,7 +5,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ## [Unreleased]
 ### Fixed
 [#434](https://github.com/plotly/dash-table/issues/434)
-- Fix CSS borders propeties overwrite style_* borders properties. 
+- Fix CSS borders properties overwrite style_* borders properties.
+
+[#TBD](https://github.com/plotly/dash-table/pull/TBD)
+- Fix edges rendering in Firefox
 
 ## [3.7.0] - 2019-05-15
 ### Added
